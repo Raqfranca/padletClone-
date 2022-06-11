@@ -5,4 +5,4 @@ Checkpoint I - Front End II
 Criação de uma página inspirada no padlet, utilizando as tecnologias: HTML, CSS, bootstrap e JavaScript. 
 
 
-[Visualizar o site]()
+[Visualizar o site](https://raqfranca.github.io/padletClone-/)
